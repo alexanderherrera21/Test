@@ -1,1 +1,1 @@
-This is a success message!
+Congrats on opening this message.
